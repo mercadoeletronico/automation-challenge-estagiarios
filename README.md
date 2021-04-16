@@ -6,7 +6,8 @@ Bem-vindo(a) ao nosso teste para desenvolvedores(as) de automação.
 
 ## :zap: O Desafio
 Criar um projeto de automação utilizando como base o site **Automation Practice**.
-Utilizando BDD. É necessário conter no mínimo os seguintes cenários
+Utilizando BDD ou do melhor jeito que conseguir fazer. 
+É necessário conter no mínimo os seguintes cenários
 
 * `Efetue um cadastro de usuário`
 * `Login com sucesso (se caso utilizar o login do cadastro, será um diferencial/plus)`
