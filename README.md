@@ -29,12 +29,10 @@ Utilizando BDD. É necessário conter no mínimo os seguintes cenários
 
 ### Requisitos Desejáveis
 * Arquivo contendo massa de dados
-* Gerador de dados fake (construídos por você mesmo ou utilizando algum framework pré existente)
 * Page object e componentização
-* Incluir na arquitetura do projeto soluções para integração da automação num servidor CI/CD (Jenkins, Gitlab CI, TeamCity e etc...)
 
-### Você pode
-* Utilizar as seguites linguagens de programação:
+### Você pode Utilizar qual quer linguagem que desejar
+* Aqui alguns exemplos de linguagens de programação:
   * Ruby
   * Java
   * Python
