@@ -26,7 +26,6 @@ Utilizando BDD ou do melhor jeito que conseguir fazer.
   * Utilizar comentários no código explicando e justificando decisões tomadas
 * Gerar relatório em HTML ou Json.
 * Commitar as evidências do teste.
-* Deve utilizar BDD (Funcionalidades e cenários descritos em Gherkin)
 
 ### Requisitos Desejáveis
 * Arquivo contendo massa de dados
