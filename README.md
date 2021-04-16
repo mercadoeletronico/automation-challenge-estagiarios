@@ -31,7 +31,7 @@ Utilizando BDD ou do melhor jeito que conseguir fazer.
 * Arquivo contendo massa de dados
 * Page object e componentização
 
-### Você pode Utilizar qual quer linguagem que desejar
+### Você pode Utilizar qualquer linguagem que desejar
 * Aqui alguns exemplos de linguagens de programação:
   * Ruby
   * Java
