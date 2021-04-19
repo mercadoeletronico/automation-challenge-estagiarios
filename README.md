@@ -2,7 +2,17 @@
 
 # Automation Challenge
 
-Bem-vindo(a) ao nosso teste para desenvolvedores(as) de automação.
+Bem-Vindos ao desafio de qualidade de software do ME. 
+
+Aqui buscamos o seu melhor, se algo no desafio é desconhecido para você, não tem problema, temos certeza de que você fará o melhor que pode usando seus conhecimentos. 
+
+Iremos avaliar não só seu código, aqui avaliaremos estrutura, organização, conhecimento e acima de tudo sua vontade e dedicação em realizá-lo. 
+
+Lembrem-se que a qualidade está em todo lugar. 
+
+Boa Sorte a todos!
+
+Isa Borges
 
 ## :zap: O Desafio
 Criar um projeto de automação utilizando como base o site **Automation Practice**.
