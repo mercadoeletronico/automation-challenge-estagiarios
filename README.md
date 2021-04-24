@@ -1,61 +1,23 @@
-<img src="me.svg" width="200" alt="ME">
+# Automation Practice  
 
-# Automation Challenge
+## Instalação
 
-Bem-Vindos ao desafio de qualidade de software do ME. 
+Primeiro clone o projeto abrindo um terminal e executando:
+```bash
+git clone https://github.com/DougHigashi/AutomationPractice.git
+```
+Ou baixando o zip.
+<br><br>
+Após clonar o projeto, importe ele no Eclipse IDE como um projeto Gradle já existente. Quando a IDE terminar de importar o projeto abra a classe [`GeneralTest`](https://github.com/DougHigashi/AutomationPractice/tree/master/src/test/java/tests) e execute como um teste Gradle.
 
-Aqui buscamos o seu melhor, se algo no desafio é desconhecido para você, não tem problema, temos certeza de que você fará o melhor que pode usando seus conhecimentos. 
+Após o término do teste, o Gradle gera um relatório com os resultados do teste.
+O relatório fica em `build/reports/tests/test/index.html`
 
-Iremos avaliar não só seu código, aqui avaliaremos estrutura, organização, conhecimento e acima de tudo sua vontade e dedicação em realizá-lo. 
 
-Lembrem-se que a qualidade está em todo lugar. 
 
-Boa Sorte a todos!
+## Tecnologias usadas
 
-Isa Borges
-
-## :zap: O Desafio
-Criar um projeto de automação utilizando como base o site **Automation Practice**.
-Utilizando BDD ou do melhor jeito que conseguir fazer. 
-É necessário conter no mínimo os seguintes cenários
-
-* `Efetue um cadastro de usuário`
-* `Login com sucesso (se caso utilizar o login do cadastro, será um diferencial/plus)`
-
-### Dados do site
-
-1. Acesse o link [Automation Practice](http://automationpractice.com/index.php).
-2. Caso tenha algum problema ou dúvida na visualização do site favor nos avisar.
-
-## :clipboard: Requisitos
-
-### Requisitos obrigatórios
-* Documentação
-  * Instruções de instalação e inicialização
-  * Descrição sobre as tecnologias utilizadas no projeto
-  * Utilizar comentários no código explicando e justificando decisões tomadas
-* Gerar relatório em HTML ou Json.
-* Commitar as evidências do teste.
-
-### Requisitos Desejáveis
-* Arquivo contendo massa de dados
-* Page object e componentização
-
-### Você pode Utilizar qualquer linguagem que desejar
-* Aqui alguns exemplos de linguagens de programação:
-  * Ruby
-  * Java
-  * Python
-
-### O que gostaríamos de ver
-* Uma arquitetura consistente, focada na simplicidade do projeto (**keep it simple!**)
-* Apenas testes funcionais, não estamos buscando variações de tipo de testes nesse desafio.
-
-## Dica
-* Nos envie o projeto mesmo que não consiga finaliza-lo 100%, pois o avaliaremos mesmo assim.
-
-## :rocket: Entrega
-Para enviar seu código, você pode:
-
-* Enviar a URL do seu repositório no GitHub para o(a) Recrutador(a)
-* Fazer um fork deste repositório, criar uma branch com o seu nome e enviar um pull request
+* [Java](https://www.java.com/pt-BR/)
+* [Selenium](https://www.selenium.dev/)
+* [Gradle](https://gradle.org/)
+* [JUnit](https://junit.org/junit5/)
